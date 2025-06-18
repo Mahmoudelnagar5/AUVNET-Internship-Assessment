@@ -126,7 +126,9 @@ flutter run
 
 ## 🎥 Demo
 
-Check out the demo video: [Watch Demo](https://github.com/user-attachments/assets/f1dc153f-8d8e-45a1-a1c5-afaa3bcacb7b)
+Check out the demo video: [Watch Demo]
+https://github.com/user-attachments/assets/f1dc153f-8d8e-45a1-a1c5-afaa3bcacb7b
+
 
 ## 🤝 Contributing
 
