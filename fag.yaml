@@ -1,0 +1,48 @@
+output_path: lib/core/utils
+class_name: Assets
+prefix: assets/
+ignore:
+  - .DS_Store
+  - .git
+  - .gitignore
+  - .idea
+  - .vscode
+  - .metadata
+  - .packages
+  - .pub
+  - .pubspec.lock
+  - .pubspec.yaml
+  - .flutter-plugins
+  - .flutter-plugins-dependencies
+  - .dart_tool
+  - build
+  - ios
+  - android
+  - web
+  - linux
+  - macos
+  - windows
+  - test
+  - node_modules
+  - .dart_tool
+  - .idea
+  - .vscode
+  - .git
+  - .github
+  - .gitignore
+  - .metadata
+  - .packages
+  - .pub
+  - .pubspec.lock
+  - .pubspec.yaml
+  - .flutter-plugins
+  - .flutter-plugins-dependencies
+  - build
+  - ios
+  - android
+  - web
+  - linux
+  - macos
+  - windows
+  - test
+  - node_modules 

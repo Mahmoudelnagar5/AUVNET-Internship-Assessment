@@ -1,0 +1,8 @@
+flutter_assets:
+  assets_path:
+    - assets/
+  output_path: lib/core/utils/
+  filename: assets.dart
+  field_prefix: assets
+  classname: Assets
+  ignore_comments: false 
