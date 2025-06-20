@@ -139,7 +139,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Mahmoud Elnagar** - *Initial work* - [GitHub]([https://github.com/Mahmoudelnagar5)
+- **Mahmoud Elnagar** - *Initial work* - [GitHub](https://github.com/Mahmoudelnagar5/)
+
 
 ## 🙏 Acknowledgments
 
